@@ -10,11 +10,13 @@
     border: 1px solid black;
     background-color: white;
 }
-.squares:hover{
-    border: 1px solid black;
-    background-color: blue;
-}
+
 #input {
     width: 60px;
     height: 20px;
+}
+
+.color{
+    border: 1px solid black;
+    background-color: blueviolet;
 }
